@@ -1,6 +1,6 @@
 --- #YAML:1.0
-name:               re.pl
-version:            0.120
+name:               App-re.pl
+version:            0.122
 abstract:           REPL with tabcompletion and perldoc support
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
